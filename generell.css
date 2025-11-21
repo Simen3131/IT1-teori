@@ -1,5 +1,17 @@
 :root {
+    --clr-header: #5D5D81;
+    --clr-footer: #A2AEBB;
+    --clr-text: #DFE0E2;
+    --clr-black: #071013;
 
+    --clr-primarr-400: #7D7DA1;
+    --clr-primary-500: #67678E;
+    --clr-primary-700: #333347;
+
+    --clr-secondary-200: #B8C1CC;
+    --clr-secondary-400: #7D8DA1;
+    --clr-secondary-500: #67788E;
+    --clr-secondary-700: #3C4653;
 }
 
 * {
