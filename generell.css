@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&display=swap');
+
+
 :root {
     --clr-header: rgba(93, 93, 129, 1);
     --clr-footer: rgba(162, 174, 187, 1);
@@ -12,6 +15,10 @@
     --clr-secondary-400: rgba(125, 141, 161, 1);
     --clr-secondary-500: rgba(103, 120, 142, 1);
     --clr-secondary-700: rgba(60, 70, 83, 1);
+
+    --fs-small: 12px;
+    --fs-medium: 20px;
+    --fs-large: 25px;
 
     --padding-s: padding(12px);
     --padding-m: padding(22px);

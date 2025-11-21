@@ -1,0 +1,23 @@
+section{
+    height: 100vh;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.gridbox{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 40px;
+    column-gap: 150px;
+
+}
+
+.fakta{
+    margin-top: 50px;
+    width: 400px;
+    text-align: center;
+}
