@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&display=swap');
+
+
 :root {
     --clr-header: #5D5D81;
     --clr-footer: #A2AEBB;
@@ -12,6 +15,12 @@
     --clr-secondary-400: #7D8DA1;
     --clr-secondary-500: #67788E;
     --clr-secondary-700: #3C4653;
+
+    --ff-base: "Hanken Grotesk", sans-serif;
+
+    --fs-small: 12px;
+    --fs-medium: 20px;
+    --fs-large: 25px;
 }
 
 * {
